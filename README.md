@@ -23,7 +23,7 @@ These exploratory analysis only focussed on a scenario where the transaction was
 * More fraudulent activities are done in grocery stores and internet shopping.
 * While fewer fraudulent activities are done in travel transactions.
 
-![alt text](/eda_images/edimage.png)
+![alt text](/eda_images/image.png)
 
 * Most amount was lost shopping online.
 * misc_net and shopping_pos have similar amounts lost due to fraudulent activities.
