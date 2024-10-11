@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/users/Dnemauluma/Work%20Folders/Training/Other_Datasets/credit-card-transactions-fraud-detection/mlruns/424328410538236926/3a71fb38ed1446699b9d9b69f0b23afe/artifacts
+end_time: 1728636146939
+entry_point_name: ''
+experiment_id: '424328410538236926'
+lifecycle_stage: active
+run_id: 3a71fb38ed1446699b9d9b69f0b23afe
+run_name: spiffy-wren-365
+run_uuid: 3a71fb38ed1446699b9d9b69f0b23afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728636138313
+status: 3
+tags: []
+user_id: DNemauluma

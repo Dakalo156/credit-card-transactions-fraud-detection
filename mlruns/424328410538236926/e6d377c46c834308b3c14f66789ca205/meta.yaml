@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/users/Dnemauluma/Work%20Folders/Training/Other_Datasets/credit-card-transactions-fraud-detection/mlruns/424328410538236926/e6d377c46c834308b3c14f66789ca205/artifacts
+end_time: 1728582505253
+entry_point_name: ''
+experiment_id: '424328410538236926'
+lifecycle_stage: active
+run_id: e6d377c46c834308b3c14f66789ca205
+run_name: thundering-conch-910
+run_uuid: e6d377c46c834308b3c14f66789ca205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728582487403
+status: 3
+tags: []
+user_id: DNemauluma

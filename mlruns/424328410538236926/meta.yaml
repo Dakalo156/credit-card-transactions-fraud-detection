@@ -1,0 +1,6 @@
+artifact_location: file:///C:/users/Dnemauluma/Work%20Folders/Training/Other_Datasets/credit-card-transactions-fraud-detection/mlruns/424328410538236926
+creation_time: 1728582421315
+experiment_id: '424328410538236926'
+last_update_time: 1728582421315
+lifecycle_stage: active
+name: isolation_forest_exp

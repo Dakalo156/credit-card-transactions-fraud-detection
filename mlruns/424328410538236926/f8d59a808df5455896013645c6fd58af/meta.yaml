@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/users/Dnemauluma/Work%20Folders/Training/Other_Datasets/credit-card-transactions-fraud-detection/mlruns/424328410538236926/f8d59a808df5455896013645c6fd58af/artifacts
+end_time: 1728582444943
+entry_point_name: ''
+experiment_id: '424328410538236926'
+lifecycle_stage: active
+run_id: f8d59a808df5455896013645c6fd58af
+run_name: skittish-loon-21
+run_uuid: f8d59a808df5455896013645c6fd58af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728582423658
+status: 3
+tags: []
+user_id: DNemauluma

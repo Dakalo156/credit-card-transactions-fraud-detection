@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/users/Dnemauluma/Work%20Folders/Training/Other_Datasets/credit-card-transactions-fraud-detection/mlruns/424328410538236926/82d6fe2081264b4096aa19b45cca630f/artifacts
+end_time: 1728582617685
+entry_point_name: ''
+experiment_id: '424328410538236926'
+lifecycle_stage: active
+run_id: 82d6fe2081264b4096aa19b45cca630f
+run_name: resilient-mole-899
+run_uuid: 82d6fe2081264b4096aa19b45cca630f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728582601702
+status: 3
+tags: []
+user_id: DNemauluma

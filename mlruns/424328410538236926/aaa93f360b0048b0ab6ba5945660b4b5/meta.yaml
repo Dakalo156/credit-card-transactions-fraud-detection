@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/users/Dnemauluma/Work%20Folders/Training/Other_Datasets/credit-card-transactions-fraud-detection/mlruns/424328410538236926/aaa93f360b0048b0ab6ba5945660b4b5/artifacts
+end_time: 1728638518494
+entry_point_name: ''
+experiment_id: '424328410538236926'
+lifecycle_stage: active
+run_id: aaa93f360b0048b0ab6ba5945660b4b5
+run_name: nervous-mouse-641
+run_uuid: aaa93f360b0048b0ab6ba5945660b4b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728638503713
+status: 3
+tags: []
+user_id: DNemauluma

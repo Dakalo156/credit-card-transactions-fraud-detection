@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/users/Dnemauluma/Work%20Folders/Training/Other_Datasets/credit-card-transactions-fraud-detection/mlruns/424328410538236926/4affd3e92b674d23b440106687b70be0/artifacts
+end_time: 1728583026834
+entry_point_name: ''
+experiment_id: '424328410538236926'
+lifecycle_stage: active
+run_id: 4affd3e92b674d23b440106687b70be0
+run_name: bemused-duck-748
+run_uuid: 4affd3e92b674d23b440106687b70be0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728583011335
+status: 3
+tags: []
+user_id: DNemauluma
